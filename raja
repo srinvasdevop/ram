@@ -3,3 +3,4 @@ ls -la
 ls -ltr
 ifconfig
 ls -ll
+mkdir srini
